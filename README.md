@@ -1,18 +1,5 @@
 # Use various machine learning methods to predict london housing price with existing features
----
-title: 'Use various machine learning methods to predict london housing price with existing features'
-author: "Zitong Hu"
-date: "`r Sys.Date()`"
-output: 
-    html_document:
-      number_sections: true
-      highlight: haddock
-      theme: spacelab
-      toc: yes
-      toc_depth: 2
-      toc_float:
-        collapsed: false
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
